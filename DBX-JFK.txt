@@ -1,0 +1,6 @@
+IDPax,Asiento,Tipo,Comida,Categoria
+0908070605,11F,Adulto,N,FC
+0704073643,36C,Nino,VT,EC
+0904055620,10C,Nino,VG,FC
+1308064401,19G,Adulto,N,EC
+0104076205,3A,Tercera Edad,N,FC

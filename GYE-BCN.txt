@@ -1,0 +1,1 @@
+IDPax,Asiento,Tipo,Comida,Categoria
