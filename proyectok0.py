@@ -18,7 +18,7 @@ def rutasdisponibles():
 def crearavion(modelo):
     archivo=open(modelo ,"r")
     fila = archivo.readline().strip().split("=")
-    pri_clase = archivo.readline().strip().split("=")
+    pri_clase = archivo.readline().strip().split("=")#ESTE COMENTARIO ES DE PRUEBA
     economico = archivo.readline().strip().split("=")
     cafeteria = archivo.readline().strip().split("=")
     banos = archivo.readline().strip().split("=")
